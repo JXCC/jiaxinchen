@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Jiaxin Chen's WebPage
 
-You can use the [editor on GitHub](https://github.com/JXCC/jxcchen/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Jiaxin Chen, a 3rd year Ph.D. candiate in Mechanics, Materials and Structure in Civil and Environmental Engineering at Northwestern University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my webpage. It is my first time to work on the webpage. Let's see how it is going.
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a test webpage for my future use. I found fun in doing this! This will be a communication website for me to communicate people all over the world! So exciting!
 
-```markdown
-Syntax highlighted code block
+### Planning
+I am planning to share my work and a little bit of my hobbies.
 
-# Header 1
-## Header 2
-### Header 3
+### Hobbies
+My recent hobby is to do vlog. Vlog is basically a video created by one person to show their daily life.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JXCC/jxcchen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Last
+Study hard and smart! Stay hungary, stay foolish
