@@ -1,8 +1,11 @@
 ## Welcome to Jiaxin Chen's WebPage
 
-My name is Jiaxin Chen, a 3rd year Ph.D. candiate in Mechanics, Materials and Structure in Civil and Environmental Engineering at Northwestern University.
+My name is Jiaxin Chen, a 4th year Ph.D. candiate in Mechanics, Materials and Structure in Civil and Environmental Engineering at Northwestern University.
 
 This is my webpage. It is my first time to work on the webpage. Let's see how it is going.
+Email: nujxchen@gmail.com
+Twitter: JiaxinJessica
+Welcome to connect with me with your research ideas or questions!
 
 ### Introduction
 
